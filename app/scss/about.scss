@@ -1,0 +1,15 @@
+// Обнуление стилей
+@import 'assets/reset';
+// Переменные, миксины, наследования
+@import 'assets/vars';
+// Подключенные библиотеки
+@import 'assets/libs';
+// Шрифты
+@import 'assets/fonts';
+// Глобальные стили
+@import 'assets/global';
+
+
+
+// Медиа запросы
+@import 'assets/media';
